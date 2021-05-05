@@ -1,0 +1,19 @@
+[2021-04-28 11:38:29 INFO]: install::setup-logging ended
+================
+[2021-04-28 11:38:29 INFO]: install::start-up started
+[2021-04-28 11:38:29 INFO]: install::start-up starting services
+[2021-04-28 11:38:29 INFO]: install::start-up ended
+================
+[2021-04-28 11:41:35 INFO]: install::root-check started
+[2021-04-28 11:41:35 INFO]: install::root-check ended
+================
+[2021-04-28 11:41:35 INFO]: install::docker-check started
+[2021-04-28 11:41:35 INFO]: install::docker-check ended
+================
+[2021-04-28 11:41:35 INFO]: install::docker-compose-check started
+[2021-04-28 11:41:35 INFO]: install::docker-compose-check ended
+================
+[2021-04-28 11:41:35 INFO]: install::tear-down started
+[2021-04-28 11:41:35 INFO]: install::tear-down starting services
+[2021-04-28 11:41:35 INFO]: install::tear-down ended
+================
